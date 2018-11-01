@@ -1,0 +1,60 @@
+sem ambiguidade
+com clareza
+tem que ser passo a passo e em ordem
+unica coisa que se sabe são valores declarados e medidas
+
+electron
+
+comandos cmd
+- code serve para abrir visualstudio; code . server para abrir o visualstudio na pagina em que estou
+- pwd mostra onde você está
+- cd te leva para um diretório que se encontra dentro de onde você está
+- mkdir cria diretório
+- touch cria arquivo
+
+COMO FRITAR UM OVO
+1 - compre um ovo de galinha
+2 - pegue um pote de margarina ou uma manteiga
+3 - abra a margarina ou a manteiga
+4 - pegue uma colher, coloque-a com o lado da concha dentro do pote de manteiga ou margarina e pegue 7 g de margarina ou manteiga
+5 - coloque a frigideira sobre uma saída de gás do fogão e ligue o fogo dessa saída na menor intensidade
+6 - espere 1 minuto, pegue a colher com manteiga ou margarina e coloque a manteiga ou margarina que está na colher dentro da frigideira, após isso devolva o pote de manteiga ou margarina para o local onde 
+7 - pegue o ovo de galinha comprado
+8 - com a mesma colher que você pegou a manteiga ou a margarina e com o conjunto colher-ovo posicionado acima da frigideira que está sobre o fogão ligado, quebre a casca do ovo que você pegou, com o cuidado de o conteúdo interno do ovo (clara e gema) e somente esse conteúdo caia totalmente dentro dessa frigideira, mantendo a casca do ovo e a colher ainda em sua mão.
+9 - coloque a casca de ovo na lixeira.
+10 - 1 minuto apos o ovo estar na frigideira, pegue uma colher, pegue o saleiro, abra-o e com a colher que você acabou de pegar você pegará 1 g de sal, após isso devolva o saleiro para o local de inicio.
+11 - despeje o sal que se encontra na ultima colher que você pegou sobre o ovo que está fritando
+12 - 1 minuto após despejar o sal sobre o ovo, pegue a primeira colher que você pegou, posicione-a sob o ovo e vire-o.
+13 - espere 2 minutos e desligue o fogo.
+
+***
+ console.log("") printa algo no fim da página
+tipos de variáveis
+- let texto = "texto";
+- let numero = 1;
+- let booleano = true or false;
+- let nome = 
+
+***
+
+list
+(31) ["lembre que toda contagem de elemento começa com o índice 0", "lembre que não preciso mudar todo o vetor para mod…lemento, posso utilizar o list[n] = 'novo valor' ", 2, 3, empty × 26, "existem infinitos elementos em um vetor só que aqu…não definiu valor são padronizados como undefined"]
+0: "lembre que toda contagem de elemento começa com o índice 0"
+1: "lembre que não preciso mudar todo o vetor para modificar apenas um elemento, posso utilizar o list[n] = 'novo valor' "
+2: 2
+3: 3
+30: "existem infinitos elementos em um vetor só que aqueles para os quais você não definiu valor são padronizados como undefined"
+
+list.splice - recorta de uma lista determinados elementos da seguinte maneira:
+  - list.splice( p1, p2, p3); de forma que: p1 (parametro 1) = índice a partir do qual se recortará, p2 (parametro 2) = quantos elementos contando com o primeiro e a partir dele serão recortados, e p3 (parametro 3) = elementos a serem adicionados no lugar dos elementos recortados
+
+list.push replica no final do vetor o ultimo elemento
+
+list.pop remove do final do vetor o ultimo elemento
+
+vetor nunca retorna um elemento como objeto da seguinte forma: lista.0; e sim lista[0]
+vetor nunca possui elemento que não seja tratado em posição (index)
+
+objeto nunca é tratado em posição (não possui index para ser chamado)
+
+o texto também é tido como uma lista, de modo que comandos como texto[n] dá a letra cujo índice é n;
